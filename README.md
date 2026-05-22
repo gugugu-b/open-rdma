@@ -55,6 +55,8 @@ Whether you are a practitioner or student in hardware (FPGA, ASIC), software inf
 
 <div>
 
+* **[2026-05-20] [Open-RDMA Project Surpasses 250 Stars](https://emanuelef.github.io/daily-stars-explorer/#/open-rdma/open-rdma)**
+* **[2026-05-07] [Weekly Report #18 Released](https://github.com/open-rdma/open-rdma-driver/blob/dev/docs/zh-CN/records/weekly-report/2026-05-07.md)**
 * **[2026-04-09] [Weekly Report #14 Released](https://github.com/open-rdma/open-rdma-driver/blob/dev/docs/zh-CN/records/weekly-report/2026-04-09.md)**
 * **[2026-04-02] [Weekly Report #13 Released](https://github.com/open-rdma/open-rdma-driver/blob/dev/docs/zh-CN/records/weekly-report/2026-04-02.md)**
 
